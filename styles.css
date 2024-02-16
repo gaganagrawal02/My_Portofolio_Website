@@ -617,10 +617,9 @@ footer{
         flex-direction: column;
         gap: 30px;
     }
-    .logo{
-        width: 40px;
-        
-    }
+.logo{
+   width:150px; 
+}
     .nav-items{
         width: 310px;
         display: flex;
